@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.no-bullets-list {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove padding to collapse list items */
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
