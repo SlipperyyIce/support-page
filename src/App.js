@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  const appNames = ["TAC Hymns"];
+  const appNames = ["TAC Hymns", 'Tap Spiral'];
 
   // Use the map function to render the list of app names
   const appListItems = appNames.map((appName, index) => (
